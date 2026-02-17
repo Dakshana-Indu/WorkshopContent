@@ -84,6 +84,8 @@ h1 {
     /* width: ;
     height: ;
     Choose a size of image (note : should ba a square so x = y) */
+    width: 20px;
+    height: 20px;
 }
 
 .link-btn:hover {
