@@ -21,7 +21,7 @@ body {
 .container {
     width: 100%;
     /* max-width: ; choose the max width of tyour container*/
-    max-width: 20px;
+    max-width: 300px;
     text-align: center;
     padding: 30px 20px;
 }
